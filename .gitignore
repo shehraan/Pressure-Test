@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.local
+.env.*.local
+.convex
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.log
+.c*
+.agents
+AGENTS.md
+CLAUDE.md
