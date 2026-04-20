@@ -6,7 +6,8 @@ dist-ssr
 .env.local
 .env.*.local
 .convex
-convex/_generated
+# convex/_generated is intentionally NOT ignored — commit these files so
+# CI/CD builds (Vercel) can resolve Convex types without re-running codegen.
 .vscode/*
 !.vscode/extensions.json
 .idea
