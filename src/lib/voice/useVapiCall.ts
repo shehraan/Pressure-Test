@@ -1,3 +1,4 @@
+/** React hook: Vapi lifecycle, transcripts, phases, and teardown for the voice checkpoint. */
 import { useCallback, useEffect, useRef, useState } from "react";
 import { getVapi, getVapiConfig, isVapiConfigured } from "./vapi";
 import { events } from "../events";

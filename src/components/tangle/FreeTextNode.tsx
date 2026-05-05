@@ -1,3 +1,4 @@
+/** Free-text checkpoint on the timeline; captures wording for scoring evidence. */
 import { useRef, useState } from "react";
 import type { FreeTextNode as FTNode } from "../../lib/scenario/types";
 import TimelineNode from "./TimelineNode";

@@ -1,3 +1,4 @@
+/** Touch-friendly choice card with optional hesitation timing for signals. */
 import { useEffect, useRef, useState } from "react";
 import type { ChoiceOption } from "../../lib/scenario/types";
 import { cn } from "../../lib/utils";

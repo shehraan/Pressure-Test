@@ -1,3 +1,4 @@
+/** Landing page: explains the Tangle and routes players into `/play`. */
 import { Link } from "react-router-dom";
 import { ArrowUpRight, Phone, MessageSquare, PenLine } from "lucide-react";
 import { launchDayTangle } from "../data/tangles/launchDay";

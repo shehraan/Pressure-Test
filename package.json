@@ -1,5 +1,6 @@
 {
   "name": "pressure-test",
+  "description": "Pressure Test — behavioral scenario web app (React, Vite, Convex, Vapi).",
   "private": true,
   "version": "0.1.0",
   "type": "module",

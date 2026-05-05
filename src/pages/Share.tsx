@@ -1,3 +1,4 @@
+/** Shareable read-only results view for a session id (demo / social proof). */
 import { useEffect, useRef, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { useSessionWithRelated } from "../lib/convexClient";

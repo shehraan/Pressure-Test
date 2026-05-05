@@ -1,3 +1,4 @@
+/** Class boundary that catches render errors and shows a recoverable fallback. */
 import { Component, type ErrorInfo, type ReactNode } from "react";
 
 interface Props {

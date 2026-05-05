@@ -1,3 +1,4 @@
+/** Chat-styled interlude node: scripted messages and reply choices. */
 import { useEffect, useState } from "react";
 import type { ChatInterludeNode, ChoiceOption } from "../../lib/scenario/types";
 import ChoiceCard from "./ChoiceCard";

@@ -1,3 +1,4 @@
+/** Browser entry: mounts React with routing and loads global CSS. */
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";

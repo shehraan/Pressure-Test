@@ -1,16 +1,21 @@
+# Build outputs and dependencies
 node_modules
 dist
-dist-ssr
-*.local
+.convex
+vapiDocs
+
+# Environment and machine-local files
 .env
 .env.local
-.env.*.local
-.convex
+.DS_Store
+*.log
+
+# Editor and IDE settings
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
-*.log
+
+# Agent and workspace metadata
 .c*
 .agents
 AGENTS.md

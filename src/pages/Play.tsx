@@ -1,3 +1,4 @@
+/** Play flow: prelude → scenario engine → voice checkpoint → persist session → results. */
 import { useCallback, useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import PreludeForm from "../components/tangle/PreludeForm";

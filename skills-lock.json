@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "_about": "Pins Convex agent skill bundles (source + content hash) for reproducible installs.",
   "skills": {
     "convex": {
       "source": "get-convex/agent-skills",

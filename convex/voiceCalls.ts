@@ -1,3 +1,4 @@
+/** Convex rows for the voice checkpoint: status, transcript, and lightweight signals. */
 import { v } from "convex/values";
 import { mutation, query } from "./_generated/server";
 

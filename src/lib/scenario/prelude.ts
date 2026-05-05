@@ -1,3 +1,4 @@
+/** Prelude field option lists (multi-select surfaces, etc.). */
 import type { PreludeAnswers } from "./types";
 import type { TraitKey } from "../traits/model";
 

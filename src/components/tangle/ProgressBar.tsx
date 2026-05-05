@@ -1,3 +1,4 @@
+/** Scenario progress bar with optional phase tag (e.g. time-of-day label). */
 import { cn } from "../../lib/utils";
 
 type Props = { ratio: number; tag?: string; title?: string };

@@ -1,3 +1,4 @@
+/** Ambient typings for `import.meta.env` (Vapi, Convex URL, optional PostHog). */
 /// <reference types="vite/client" />
 
 interface ImportMetaEnv {

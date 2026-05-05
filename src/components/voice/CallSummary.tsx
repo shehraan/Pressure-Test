@@ -1,3 +1,4 @@
+/** Summarizes voice transcript lines and derived behavioral signals after a call. */
 import type { TranscriptLine } from "../../lib/voice/useVapiCall";
 import type { DerivedVoiceSignals } from "../../lib/voice/signals";
 import { cn } from "../../lib/utils";

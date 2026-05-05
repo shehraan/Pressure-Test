@@ -1,3 +1,4 @@
+// TypeScript settings for Vite config and other Node-only tooling.
 {
   "compilerOptions": {
     "target": "ES2022",

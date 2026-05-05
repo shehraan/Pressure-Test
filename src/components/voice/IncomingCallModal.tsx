@@ -1,3 +1,4 @@
+/** Modal for the incoming voice checkpoint: ringtone, accept, or decline. */
 import { useEffect, useRef, useState } from "react";
 import { Phone, PhoneOff } from "lucide-react";
 import { cn } from "../../lib/utils";

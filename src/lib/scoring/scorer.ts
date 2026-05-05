@@ -1,3 +1,4 @@
+/** Turns session events and transcripts into trait scores and the results artifact. */
 import type { SessionRecord, ArtifactRecord, EvidenceSnippet } from "../sessionStore";
 import type { TraitKey, TraitScores } from "../traits/model";
 import { TRAITS, TRAIT_ORDER, emptyScores, ARTIFACT_VERSION, SCORING_MODEL_VERSION } from "../traits/model";

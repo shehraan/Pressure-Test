@@ -1,3 +1,4 @@
+/** `cn` merges Tailwind classes; `newId` generates Correlation-friendly ids for local sessions. */
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 

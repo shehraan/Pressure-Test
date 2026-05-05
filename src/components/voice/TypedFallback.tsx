@@ -1,3 +1,4 @@
+/** Typed fallback when voice is off or fails: same script as the voice checkpoint. */
 import { useEffect, useRef, useState } from "react";
 import { Send } from "lucide-react";
 import { cn } from "../../lib/utils";

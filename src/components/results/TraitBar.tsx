@@ -1,3 +1,4 @@
+/** Labeled 0–100 bar for a single trait score (results and Trait Lab). */
 import { TRAITS, type TraitKey } from "../../lib/traits/model";
 import { cn } from "../../lib/utils";
 

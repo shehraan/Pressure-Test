@@ -2,7 +2,7 @@
 
 Pressure Test is a mobile-first behavioral scenario game that captures how a person makes decisions under startup pressure, then generates an evidence-based personality artifact from their actions.
 
-This project was built as a demo-ready MVP focused on product taste, full-stack execution, and practical behavioral data design.
+This project was built as a demo-ready MVP focused on product taste, full-stack development, and practical behavioral data design.
 
 ## Why this project matters
 
@@ -72,4 +72,15 @@ convex/
 
 ## Build and run
 
-For setup, environment variables, and implementation details, see [`BUILD.md`](BUILD.md).
+```bash
+npm install
+npm run dev
+```
+
+For full setup, environment variables, deployment notes, and implementation details, see [`BUILD.md`](BUILD.md).
+
+## Additional Documentation
+
+- Vapi integration: see https://docs.vapi.ai
+- Product + implementation guide: [`BUILD.md`](BUILD.md)
+- Convex backend notes: [`convex/README.md`](convex/README.md)

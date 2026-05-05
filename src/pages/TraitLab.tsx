@@ -1,3 +1,4 @@
+/** Trait Lab Lite: admin table + force graph for inspecting stored sessions. */
 import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { useSessionSummaries } from "../lib/convexClient";

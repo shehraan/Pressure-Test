@@ -1,3 +1,4 @@
+/** Single timeline row: optional tag, title, and narrative or choice content. */
 import type { NarrativeBeat } from "../../lib/scenario/types";
 import { cn } from "../../lib/utils";
 

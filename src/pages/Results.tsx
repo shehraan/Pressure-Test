@@ -1,3 +1,4 @@
+/** Loads a saved session and renders the personalized behavioral artifact. */
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { useSessionWithRelated } from "../lib/convexClient";

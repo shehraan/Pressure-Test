@@ -1,3 +1,4 @@
+/** D3 force-directed graph visualizing sessions and traits in Trait Lab. */
 import { useEffect, useRef } from "react";
 import * as d3 from "d3";
 

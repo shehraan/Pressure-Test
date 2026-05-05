@@ -1,3 +1,4 @@
+/** Vite config: React plugin, `@` → `src`, LAN-friendly dev server. */
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import path from "node:path";

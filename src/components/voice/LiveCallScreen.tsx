@@ -1,3 +1,4 @@
+/** Active call UI: mute, end call, and live transcript while Vapi is connected. */
 import { useEffect, useRef, useState } from "react";
 import { PhoneOff, Mic } from "lucide-react";
 import { cn } from "../../lib/utils";

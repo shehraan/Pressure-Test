@@ -1,3 +1,4 @@
+/** Top-level routes for Pressure Test (play, results, share, Trait Lab). */
 import { Routes, Route, Navigate } from "react-router-dom";
 import Landing from "./pages/Landing";
 import Play from "./pages/Play";

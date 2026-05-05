@@ -1,3 +1,4 @@
+// Root TS project that references the browser app and Node tooling configs.
 {
   "files": [],
   "references": [

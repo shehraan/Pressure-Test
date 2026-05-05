@@ -1,3 +1,4 @@
+/** Prelude form: surfaces / conflict style inputs that personalize the Tangle. */
 import { useState } from "react";
 import { SURFACE_OPTIONS } from "../../lib/scenario/prelude";
 import type { PreludeAnswers } from "../../lib/scenario/types";

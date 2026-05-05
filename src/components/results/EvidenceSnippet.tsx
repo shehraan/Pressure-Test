@@ -1,3 +1,4 @@
+/** Displays one behavioral evidence quote tied to a trait on the results page. */
 import type { EvidenceSnippet as Snippet } from "../../lib/sessionStore";
 import { TRAITS } from "../../lib/traits/model";
 import { cn } from "../../lib/utils";

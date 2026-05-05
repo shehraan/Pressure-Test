@@ -1,3 +1,4 @@
+/** Full-screen interruption beat that demands attention before continuing. */
 import { useEffect, useState } from "react";
 import { Bell } from "lucide-react";
 

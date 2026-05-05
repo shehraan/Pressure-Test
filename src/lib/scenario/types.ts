@@ -1,3 +1,4 @@
+/** Core scenario graph types: nodes, beats, choices, and session payload shapes. */
 import type { TraitKey } from "../traits/model";
 
 export type PreludeAnswers = {
